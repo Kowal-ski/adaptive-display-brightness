@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Auto Brightness (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Auto Brightness (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

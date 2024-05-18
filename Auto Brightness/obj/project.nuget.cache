@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBbOeuAkYNFQxflpmVsr8lFDJRhhie8RroFWRisiLBttrCqhimJCiIlFxpBywsTDI2emigP5GP7fJIqwTPKnWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\np400\\Dropbox\\Repos\\auto-brightness\\Auto Brightness\\Auto Brightness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.230913002\\microsoft.windowsappsdk.1.4.230913002.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.29\\microsoft.netcore.app.runtime.win-x86.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.29\\microsoft.aspnetcore.app.runtime.win-x86.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.29\\microsoft.netcore.app.host.win-arm64.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\6.0.29\\microsoft.netcore.app.runtime.win-arm64.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.29\\microsoft.aspnetcore.app.runtime.win-x64.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\6.0.29\\microsoft.windowsdesktop.app.runtime.win-arm64.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.29\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\6.0.29\\microsoft.aspnetcore.app.runtime.win-arm64.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.29\\microsoft.netcore.app.runtime.win-x64.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.29\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.29.nupkg.sha512",
+    "C:\\Users\\np400\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.29\\microsoft.netcore.app.host.win-x86.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
